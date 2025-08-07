@@ -11,7 +11,7 @@ class _GithubPracticeClassState extends State<GithubPracticeClass> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("this is feature 1"),
+      body: Text("this is feature 1 and some changes"),
     );
   }
 }
