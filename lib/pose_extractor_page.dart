@@ -11,7 +11,7 @@ class _GithubPracticeClassState extends State<GithubPracticeClass> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      body: Text("this is main brancch"),
+      body: Text("this is main branached dropped and feture one added"),
     );
   }
 }
